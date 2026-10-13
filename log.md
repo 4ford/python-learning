@@ -7,3 +7,6 @@
 
 2026-10-06 - Watched lecture one and did deep thoughts for pset1. Feeling pretty good and getting back and consistent.
   Confused: How do I use def main()
+
+2026-10-12 - Finished Pset1, Meal was really difficult because I ran into a lot of indentation errors. Slow Climb but I enjoyed it.
+  Confused: scope (variables don’t leave functions), missing return gives None, tabs vs spaces look identical, Python runs the saved file.
