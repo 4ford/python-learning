@@ -10,3 +10,6 @@
 
 2026-10-12 - Finished Pset1, Meal was really difficult because I ran into a lot of indentation errors. Slow Climb but I enjoyed it.
   Confused: scope (variables don’t leave functions), missing return gives None, tabs vs spaces look identical, Python runs the saved file.
+
+2026-10-13 - Watched all of lecture 2 on loops and lists
+  Confused: There has to be an easier way to use dicts than typing that all out
