@@ -13,3 +13,4 @@
 
 2026-10-13 - Watched all of lecture 2 on loops and lists
   Confused: There has to be an easier way to use dicts than typing that all out
+  
