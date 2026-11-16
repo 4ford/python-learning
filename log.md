@@ -13,4 +13,6 @@
 
 2026-10-13 - Watched all of lecture 2 on loops and lists
   Confused: There has to be an easier way to use dicts than typing that all out
-  
+
+2026-11-16 - Since last update I finished all of pset 3 and I am almost done with pset 4 - I keep getting distracted.
+  Confused: It's all going pretty well right now i'm getting better at using def main it's like second nature what i'm stuck on now is how to uses lists effectively (and binary trees)
